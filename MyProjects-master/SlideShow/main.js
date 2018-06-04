@@ -97,7 +97,7 @@ function SetBubble(index){
     showImage(mainIndex);
 }
 
-//factory function
+//factory //
 function makeBubbleCall(localIndex){
     return function(){ showImage(localIndex) } 
 }
