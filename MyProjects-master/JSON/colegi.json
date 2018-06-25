@@ -1,0 +1,21 @@
+{
+"colegi": [
+    {
+        "gender":"male",
+        "name":{
+            "first":"ciprian ",
+            "last":"prajitu"
+        },
+        "Location":{
+            "street":"on the street",
+            "city":"undefined",
+            "state":"underwater",
+            "postcode":"000"
+        },
+        "email":"rudlf@gmail.com",
+        "picture": "https://www.youtube.com/watch?v=FxtwEc_XG3c"
+
+    }
+]
+
+}
